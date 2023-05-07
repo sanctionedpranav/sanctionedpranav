@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Pranav
+<h1 align="center">Hi 👋, I'm Pranav</h1>
+<h3 align="center">Front-End Developer</h3>
+
 - 👀 I’m interested in learning new technologies 
 - 🌱 I’m currently learning a new technology MERN Stack.
 - 📫 Contact me at pranavs0208@gmail.com
