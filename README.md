@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 </br>
 - 👀 I’m interested in learning new technologies </br>
-- 🌱 I’m currently learning a new technology MERN Stack.</br>
-- 📫 Contact me at pranavs0208@gmail.com</br>
+- 📫 Contact me at pranavs0208@gmail.com, +91 9996633422</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
