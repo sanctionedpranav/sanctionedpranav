@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav</h1>
+<h1 align="center">Hi 👋, I'm Pranav Sharma</h1>
 <h3 align="center">Full-Stack Developer</h3>
 </br>
 - 👀 I’m interested in learning new technologies </br>
